@@ -1,0 +1,8 @@
+.welcomeImage img {
+    max-height: 80vh;
+    overflow: hidden;
+}
+
+.IonButton {
+    text-transform: none;
+}
