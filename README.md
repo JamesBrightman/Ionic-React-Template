@@ -1,5 +1,6 @@
 # Ionic-React-Template
 *A simple Ionic React template which contains a split-pane menu, 3 pages and dummy content.*
+![image](https://i.imgur.com/81gR0jf.jpg)
 ***
 
 This repo contains a basic Ionic-React app and can be used as a good starting point for creating your own apps. 
