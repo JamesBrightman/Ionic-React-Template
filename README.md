@@ -1,6 +1,6 @@
 # Ionic-React-Template
 ![npm](https://img.shields.io/npm/v/npm) ![npm](https://img.shields.io/npm/v/@ionic/react?label=%40ionic%2Freact) ![npm](https://img.shields.io/npm/v/react?label=react) ![GitHub](https://img.shields.io/github/license/JamesBrightman/Ionic-React-Template)
-
+***
 *A simple Ionic React template which contains a split-pane menu, 3 pages and dummy content.*
 ![image](https://i.imgur.com/81gR0jf.jpg)
 ***
